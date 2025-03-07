@@ -1,0 +1,8 @@
+com\mycompany\gerenciamentobanco\Corrente.class
+com\mycompany\gerenciamentobanco\Conta.class
+com\mycompany\gerenciamentobanco\Transacao.class
+com\mycompany\gerenciamentobanco\Cidade.class
+com\mycompany\gerenciamentobanco\CPFGenerator.class
+com\mycompany\gerenciamentobanco\Cliente.class
+com\mycompany\gerenciamentobanco\Poupanca.class
+com\mycompany\gerenciamentobanco\GerenciamentoBanco.class
